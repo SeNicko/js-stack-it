@@ -1,0 +1,15 @@
+{
+	"name": "js-stack-it",
+	"version": "1.0.0",
+	"description": "Replica of stack-it game made in javascript.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SeNicko/js-stack-it.git"
+	},
+	"author": "Sebastian Flajszer",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/SeNicko/js-stack-it/issues"
+	},
+	"homepage": "https://github.com/SeNicko/js-stack-it#readme"
+}
